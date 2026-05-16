@@ -26,7 +26,7 @@ Music Player Web App is a modern and responsive audio player built with HTML5, C
 - JavaScript
 
 ## Live Demo
-https://music-player1-ebon.vercel.app
+https://music-player1-ebon.vercel.app/
 
 ## How It Works
 The application uses HTML5 audio features combined with JavaScript functionality to manage music playback and user interactions dynamically.
@@ -40,7 +40,7 @@ cd music-player-web-app
 
 ## Run the Project
 
-Open `index.html` in your browser.
+https://music-player1-ebon.vercel.app/
 
 ## Future Improvements
 
